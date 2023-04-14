@@ -7,15 +7,13 @@
 
 ## Sobre mi
 
-- 📲 Administrador de servidores . 
+- 💻 Administrador de servidores.
 - 🎥 Técnico de soporte informático.
-- ✏️ Técnico de soporte.
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-
- ## CURSOS QUE ESTOY REALIZANDO                                                                                  
-
+- 💻 Control completo sobre hardware . Montaje y mantenimiento
+- 👩‍💻 Windows a la palma de la mano, limpiezas y optimizaciones.
+## CURSOS QUE ESTOY REALIZANDO                                                                                  
 <table>
+
 <tr>
 <td width="50%">
 <h3 align="center">Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL</h3>
