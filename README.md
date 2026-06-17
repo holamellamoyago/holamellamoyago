@@ -42,7 +42,7 @@
 <td width="50%" valign="top">
     <h3 align="center">🚀 Inventario DGAEP <img src="https://flagcdn.com/16x12/pt.png" alt="Portugal"/></h3>
     <div align="center">
-        <img src="https://www.sgeconomia.gov.pt/upload/membro.id/imagens/i020851.jpg" width="180" alt="DGAEP"/>
+        <img src="dgaep-logo.jpg" width="180" alt="DGAEP"/>
         <p><i>Aplicación desarrollada en Flutter para el control de inventario de la Direção-Geral da Administração e do Emprego Público de Portugal.</i></p>
         <p><a href="https://github.com/holamellamoyago/Inventario-DGAEP">🔗 Ver repositorio</a></p>
     </div>
