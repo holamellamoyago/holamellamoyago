@@ -1,9 +1,10 @@
-
-
 <div align="center">
     <h1 align="center"> 👋 ¡Bienvenido compañero ! 👋  </h1>
 </div>
+
 <img src="https://i.imgur.com/RZ8pYmE.png" title="source: imgur.com" />
+
+---
 
 ## Sobre mi
 
@@ -11,34 +12,52 @@
 - 🎥 Técnico de soporte informático.
 - 💻 Control completo sobre hardware . Montaje y mantenimiento
 - 👩‍💻 Windows a la palma de la mano, limpiezas y optimizaciones.
-## CURSOS QUE ESTOY REALIZANDO                                                                                  
+- 🏢 Gestión empresarial con Odoo y GLPI
+
+### Tecnologías que domino
+
+📱 **Mobile:** Flutter, Dart, Kotlin, Jetpack Compose, Android  
+🌐 **Web:** PHP, Symfony, HTML5, CSS3, JavaScript  
+💾 **BBDD:** MySQL, SQLite, Microsoft SQL Server  
+☁️ **Cloud:** Firebase, Supabase  
+🏢 **CRM / Empresa:** Odoo, GLPI  
+🛠️ **Tools:** Git, GitHub, VS Code, Android Studio  
+
+---
+
+## Mi formación
+
+🎓 **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — IES Chan do Monte  
+  Especializado en programación de apps móviles y multiplataforma.
+
+📱 **Flutter: De cero a experto** — Fernando Herrera (Udemy)  
+  Curso completo de Flutter y Dart: arquitecturas limpias, state management, Firebase, despliegue.
+
+---
+
+## Algunos proyectos destacados
+
 <table>
-
 <tr>
-<td width="50%">
-<h3 align="center">Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL</h3>
-<div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/ARL5Ats.jpg" width="400" alt="Curso básico android"></a>
-<p>Un curso paso a paso si deseas comenzar en el mundo de la Programación Web.
-
-En este curso aprenderás 10 Lenguajes y Tecnologías Web:HTML, CSS, SASS, Workflows, JavaScript, Fetch (Antes AJAX), PHP, POO - MVC, MySQL - SQL y API's
-</div>                                                                                     
+<td width="50%" valign="top">
+    <h3 align="center">🚀 Inventario DGAEP <img src="https://flagcdn.com/16x12/pt.png" alt="Portugal"/></h3>
+    <div align="center">
+        <img src="https://www.sgeconomia.gov.pt/upload/membro.id/imagens/i020851.jpg" width="180" alt="DGAEP"/>
+        <p><i>Aplicación desarrollada en Flutter para el control de inventario de la Direção-Geral da Administração e do Emprego Público de Portugal.</i></p>
+        <p><a href="https://github.com/holamellamoyago/Inventario-DGAEP">🔗 Ver repositorio</a></p>
+    </div>
 </td>
 
-                                                                                       
-<td width="50%">
-               <br>
-<h3 align="center">Jetpack Compose: Curso definitivo desde 0 [2023]</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/BtfVRQg.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-</p>Jetpack Compose es el nuevo kit de herramientas que GOOGLE nos provee para crear las vistas en Android de forma totalmente NATIVA es decir, en KOTLIN.                                                    
-A partir de ahora usarás Kotlin para la creación de las vistas, de una manera muy sencilla y potente.
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
+<td width="50%" valign="top">
+    <h3 align="center">🌍 Time Zone Orbit</h3>
+    <div align="center">
+        <img src="https://play-lh.googleusercontent.com/bd7ZRAY5TkFED2tCVAHF_HalqC0CM3szOStMNOS1mdKzFfmfOAodROnlME8fsULwsGINGiUJdBK9mwwAfzVZiBU=w150" width="80" alt="Time Zone Orbit"/>
+        <p><i>App desarrollada para TICGAL que permite visualizar y comparar zonas horarias con una interfaz orbital intuitiva.</i></p>
+        <p><a href="https://play.google.com/store/apps/details?id=gal.tic.ticgalapps.timezoneorbit&hl=es_419">🔗 Ver en Google Play</a></p>
+    </div>
+</td>
+</tr>
+</table>
 
 <!--
 **holamellamoyago/holamellamoyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
